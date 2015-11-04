@@ -168,3 +168,10 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+.colorgraph {
+  height: 5px;
+  border-top: 0;
+  background: #5e5e5e;
+  border-radius: 5px; 
+}
